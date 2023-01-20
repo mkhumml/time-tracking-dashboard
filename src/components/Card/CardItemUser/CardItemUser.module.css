@@ -1,0 +1,28 @@
+.CardItemUserContainer {
+  background-color: hsl(246, 80%, 60%);
+  display: flex;
+  flex-direction: column;
+  border-radius: 1em;
+  padding: 2em 1em;
+  
+}
+
+.SelectContainer {
+  background-color: hsl(235, 46%, 20%);
+  display: flex;
+  flex-direction: column;
+}
+
+.Image {
+  margin-bottom: 2em;
+}
+.SubHeading {
+  color: gray;
+}
+
+.Heading {
+}
+
+.InfoContainer {
+  padding-bottom: 2em;
+}
